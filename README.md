@@ -36,7 +36,7 @@ $ python2 Encrypt.py
 # Single Command 
 
 ```
-pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip2 install requests ; pip2 install mechanize ; pip2 install bs4 ; pkg install git ; git clone https://github.com/MIND163-XD/ENCODE ; cd ENCODE ; python2 Encode.py
+pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip2 install requests ; pip2 install mechanize ; pip2 install bs4 ; pkg install git ; git clone https://github.com/MIND163-XD/ENCODE ; cd ENCODE ; python2 Encrypt.py
 ```
 ANY PROBLEM THEN SHARE THIS TOOLS OWNER 👇👇
  
