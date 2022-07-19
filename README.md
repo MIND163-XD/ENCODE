@@ -29,7 +29,7 @@ $ pkg install git
 $ rm -rf ENCODE
 $ git clone https://github.com/MIND163-XD/ENCODE
 $ cd ENCODE
-$ python2 Encode.py
+$ python2 Encrypt.py
  
 ```
 
